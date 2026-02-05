@@ -11,5 +11,7 @@ and peak order periods through data analysis and dashboarding.
 - Analyzed sales data to identify top-performing cities and food categories
 - Created pivot-based summaries for daily and monthly performance
 - Designed an Excel dashboard with charts and map visualization
+- Cleaned and structured raw sales data before analysis
+
 
 <img width="931" height="606" alt="Screenshot 2026-02-05 143616" src="https://github.com/user-attachments/assets/c1779be5-6737-4c17-b0f2-7dba4c66ca16" />
